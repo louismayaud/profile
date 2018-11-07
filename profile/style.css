@@ -1,0 +1,30 @@
+body {
+  background-color: #DEE1E7;
+  font-family: "Poor Story", cursive;
+  color: #446990;
+  font-size: 20px;
+  line-height: 20px ;
+  text-align: center;
+}
+
+a{
+  color: ;
+  text-decoration:  ;
+}
+
+.container {
+  width: 500px;   /* This sets the width */
+  margin: 0 auto;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.img-sailors {
+  border-radius: 10%;
+}
+
+.card{
+ text-align: center;
+}
